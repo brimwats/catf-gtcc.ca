@@ -1,5 +1,5 @@
-baseURL: /
-title: Eureka Demo
+baseURL: https://catf-gtcc.ca/
+title: CATF-GTCC
 
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
