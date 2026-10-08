@@ -1,6 +1,0 @@
-baseURL = 'https://catf-gccc.ca/'
-locale = 'en-ca'
-title = 'Canadian Cataloguing Taskforce | Groupe de travail canadien de catalogage'
-theme = "eureka"
-[security.exec]
-  allow = ['^((dart-)?sass|go|npx|babel|node|git|postcss|tailwindcss)$']

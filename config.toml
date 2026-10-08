@@ -1,0 +1,4 @@
+baseURL = "ncpwg.org"
+languageCode = "en-us"
+title = "Name Change Policy Working Group"
+publishDir = "docs"

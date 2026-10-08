@@ -1,8 +1,0 @@
-allowContent:
-  - text/html
-  - text/org
-  - text/markdown
-  - text/plain
-  - image/svg+xml
-  - image/png
-  - image/jpeg

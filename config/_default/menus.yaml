@@ -1,13 +1,10 @@
 main:
-  - name: About
-    url: '#about'
+  - name: Resources
+    url: /resources/
     weight: 1
-  - name: Objections & Goals
-    url: /goals/
+  - name: Working Group Members
+    url: /authors/twg/
     weight: 2
-  - name: Working Groups
-    url: /wgs/
+  - name: Contact & Services
+    url: /contact-and-services/
     weight: 3
-  - name: Docs
-    url: /docs/
-    weight: 4
