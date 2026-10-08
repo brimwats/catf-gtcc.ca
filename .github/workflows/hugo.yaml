@@ -62,16 +62,22 @@ jobs:
           tar -C "${HOME}/.local" -xf "${{ runner.temp }}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
           
+      - name: Install Node.js dependencies
+        run: |
+          if [[ -f package-lock.json ]]; then
+            echo "Installing project Node.js dependencies..."
+            npm ci
+          fi
+
+          echo "Installing PostCSS and Tailwind dependencies..."
           npm install -g \
             postcss \
             postcss-cli \
-            postcss-import \
             autoprefixer \
             cssnano@6 \
             tailwindcss@3 \
             @tailwindcss/typography@0.5 \
-            @tailwindcss/forms@0.5 \
-            @tailwindcss/aspect-ratio@0.4
+            tailwindcss-rtl
           
       - name: Install Hugo
         run: |
