@@ -1,4 +1,5 @@
-baseURL = "ncpwg.org"
+baseURL = 'https://catf-gccc.ca/'
 languageCode = "en-us"
-title = "Name Change Policy Working Group"
+title = 'Canadian Cataloguing Taskforce | Groupe de travail canadien de catalogage'
 publishDir = "docs"
+theme = "hugo-eureka"
