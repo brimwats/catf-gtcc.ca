@@ -62,10 +62,11 @@ jobs:
           tar -C "${HOME}/.local" -xf "${{ runner.temp }}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
 
-      - name: Install PostCSS dependencies
+      - name: Install PostCSS and Tailwind dependencies
         run: |
-          npm install -g postcss postcss-cli autoprefixer
-
+          echo "Installing PostCSS and Tailwind dependencies..."
+          npm install -g postcss postcss-cli autoprefixer tailwindcss
+          
       - name: Install Hugo
         run: |
           echo "Installing Hugo ${HUGO_VERSION}..."
