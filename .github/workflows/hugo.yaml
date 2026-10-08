@@ -70,7 +70,7 @@ jobs:
             postcss-cli \
             postcss-import \
             autoprefixer \
-            cssnano \
+            cssnano@6 \
             tailwindcss@3
           
       - name: Install Hugo
