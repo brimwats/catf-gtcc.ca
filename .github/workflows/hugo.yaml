@@ -62,16 +62,16 @@ jobs:
           tar -C "${HOME}/.local" -xf "${{ runner.temp }}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
           
-      - name: Install PostCSS and Tailwind dependencies
-        run: |
-          echo "Installing PostCSS and Tailwind dependencies..."
           npm install -g \
             postcss \
             postcss-cli \
             postcss-import \
             autoprefixer \
             cssnano@6 \
-            tailwindcss@3
+            tailwindcss@3 \
+            @tailwindcss/typography@0.5 \
+            @tailwindcss/forms@0.5 \
+            @tailwindcss/aspect-ratio@0.4
           
       - name: Install Hugo
         run: |
@@ -122,6 +122,19 @@ jobs:
           path: ${{ runner.temp }}/.cache/hugo
           key: hugo-${{ github.run_id }}
           restore-keys: hugo-
+
+      - name: Show theme PostCSS/Tailwind configs
+        run: |
+          THEME_CSS="/home/runner/work/_temp/.cache/hugo/modules/filecache/modules/pkg/mod/wangchucheng.com/hugo-eureka@v0.9.3/assets/css"
+          # The module cache is populated during the build, so this may need to run after the first hugo invocation.
+          if [[ -d "$THEME_CSS" ]]; then
+            echo "----- postcss.config.js -----"
+            cat "$THEME_CSS/postcss.config.js" || true
+            echo "----- tailwind.config.js -----"
+            cat "$THEME_CSS/tailwind.config.js" || true
+          else
+            echo "Theme module cache not yet populated; skipping."
+          fi
 
       - name: Build
         run: |
