@@ -61,11 +61,17 @@ jobs:
           curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           tar -C "${HOME}/.local" -xf "${{ runner.temp }}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
-
+          
       - name: Install PostCSS and Tailwind dependencies
         run: |
-          echo "Installing PostCSS and Tailwind dependencies (v3)..."
-          npm install -g postcss postcss-cli autoprefixer tailwindcss@3
+          echo "Installing PostCSS and Tailwind dependencies..."
+          npm install -g \
+            postcss \
+            postcss-cli \
+            postcss-import \
+            autoprefixer \
+            cssnano \
+            tailwindcss@3
           
       - name: Install Hugo
         run: |
