@@ -2,9 +2,12 @@ main:
   - name: About
     url: '#about'
     weight: 1
-  - name: Posts
-    url: /posts/
+  - name: Objections & Goals
+    url: /goals/
     weight: 2
+  - name: Working Groups
+    url: /wgs/
+    weight: 3
   - name: Docs
     url: /docs/
-    weight: 3
+    weight: 4

@@ -1,12 +1,7 @@
 en:
-  languageCode: en
-  languageName: English
-  # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
-  contentDir: content/en
+  locale: en-CA
+  label: English
 
-# Uncomment for multilingual sites, and customize the following config.
 fr:
-   languageCode: fr
-   languageName: French
-   contentDir: content/fr
-#   title: 中文标题
+  locale: fr-CA
+  label: Français

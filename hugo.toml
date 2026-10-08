@@ -1,3 +1,4 @@
 baseURL = 'https://catf-gccc.ca/'
 locale = 'en-ca'
 title = 'Canadian Cataloguing Taskforce | Groupe de travail canadien de catalogage'
+theme = "eureka"
