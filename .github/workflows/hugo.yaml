@@ -64,8 +64,8 @@ jobs:
 
       - name: Install PostCSS and Tailwind dependencies
         run: |
-          echo "Installing PostCSS and Tailwind dependencies..."
-          npm install -g postcss postcss-cli autoprefixer tailwindcss
+          echo "Installing PostCSS and Tailwind dependencies (v3)..."
+          npm install -g postcss postcss-cli autoprefixer tailwindcss@3
           
       - name: Install Hugo
         run: |
