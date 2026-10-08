@@ -1,5 +1,0 @@
-baseURL = 'https://catf-gccc.ca/'
-languageCode = "en-us"
-title = 'Canadian Cataloguing Taskforce | Groupe de travail canadien de catalogage'
-publishDir = "docs"
-theme = "hugo-eureka"
