@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://catf-gtcc.ca/about/</loc>
+    <loc>https://catf-gtcc.ca/fr/about/</loc>
     <lastmod>2026-10-08T14:19:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -15,20 +15,7 @@
                 href="https://catf-gtcc.ca/fr/about/"
                 />
   </url><url>
-    <loc>https://catf-gtcc.ca/</loc>
-    <lastmod>2026-10-08T14:19:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://catf-gtcc.ca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-CA"
-                href="https://catf-gtcc.ca/fr/"
-                />
-  </url><url>
-    <loc>https://catf-gtcc.ca/contact/</loc>
+    <loc>https://catf-gtcc.ca/fr/contact/</loc>
     <lastmod>2026-10-08T14:19:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -41,7 +28,7 @@
                 href="https://catf-gtcc.ca/fr/contact/"
                 />
   </url><url>
-    <loc>https://catf-gtcc.ca/goals/</loc>
+    <loc>https://catf-gtcc.ca/fr/goals/</loc>
     <lastmod>2026-10-08T14:19:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -54,7 +41,20 @@
                 href="https://catf-gtcc.ca/fr/goals/"
                 />
   </url><url>
-    <loc>https://catf-gtcc.ca/categories/</loc>
+    <loc>https://catf-gtcc.ca/fr/</loc>
+    <lastmod>2026-10-08T14:19:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://catf-gtcc.ca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-CA"
+                href="https://catf-gtcc.ca/fr/"
+                />
+  </url><url>
+    <loc>https://catf-gtcc.ca/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -66,7 +66,7 @@
                 href="https://catf-gtcc.ca/fr/categories/"
                 />
   </url><url>
-    <loc>https://catf-gtcc.ca/tags/</loc>
+    <loc>https://catf-gtcc.ca/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"

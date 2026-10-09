@@ -1,12 +1,43 @@
-
 [en]
-languageName = "English"
-languageCode = "en-us"
+label = "English"
+locale = "en-US"
 weight = 1
-title = "Example site"
+title = "Canadian Cataloguing Taskforce"
+
+[en.menus]
+[[en.menus.main]]
+name = "About"
+pageRef = "/"
+weight = 10
+
+[[en.menus.main]]
+name = "Goals"
+pageRef = "/goals/"
+weight = 20
+
+[[en.menus.main]]
+name = "Get Involved"
+pageRef = "/contact/"
+weight = 30
 
 [fr]
-languageName = "Francais"
-languageCode = "fr-ca"
+label = "Français"
+locale = "fr-CA"
 weight = 2
-title = "Examplen"
+title = "Groupe de travail canadien de catalogage"
+
+[fr.menus]
+[[fr.menus.main]]
+name = "À propos"
+pageRef = "/"
+weight = 10
+
+[[fr.menus.main]]
+name = "Objectifs"
+pageRef = "/goals/"
+weight = 20
+
+[[fr.menus.main]]
+name = "Contactez-nous"
+pageRef = "/contact/"
+weight = 30

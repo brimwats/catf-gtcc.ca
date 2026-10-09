@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Canadian Cataloguing Taskforce</title>
-		<link>https://catf-gtcc.ca/</link>
-		<description>Recent content on Canadian Cataloguing Taskforce</description>
+		<title>Groupe de travail canadien de catalogage</title>
+		<link>https://catf-gtcc.ca/fr/</link>
+		<description>Recent content on Groupe de travail canadien de catalogage</description>
 		<generator>Hugo</generator>
-		<language>en-US</language>
+		<language>fr-CA</language>
 		
 		
 		
 		
 			<lastBuildDate>Thu, 08 Oct 2026 14:19:00 -0400</lastBuildDate>
 		
-			<atom:link href="https://catf-gtcc.ca/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://catf-gtcc.ca/fr/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>About</title>
-				<link>https://catf-gtcc.ca/about/</link>
+				<link>https://catf-gtcc.ca/fr/about/</link>
 				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>https://catf-gtcc.ca/about/</guid>
-				<description>&lt;p&gt;This is an about page&lt;/p&gt;</description>
+				<guid>https://catf-gtcc.ca/fr/about/</guid>
+				<description>&lt;p&gt;Ici page d&amp;rsquo;about.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>
-				<link>https://catf-gtcc.ca/contact/</link>
+				<link>https://catf-gtcc.ca/fr/contact/</link>
 				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>https://catf-gtcc.ca/contact/</guid>
+				<guid>https://catf-gtcc.ca/fr/contact/</guid>
 				<description>&lt;p&gt;This is a contact page&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Goals</title>
-				<link>https://catf-gtcc.ca/goals/</link>
+				<link>https://catf-gtcc.ca/fr/goals/</link>
 				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>https://catf-gtcc.ca/goals/</guid>
+				<guid>https://catf-gtcc.ca/fr/goals/</guid>
 				<description>&lt;p&gt;This is a goals page&lt;/p&gt;</description>
 			</item>
 	</channel>
