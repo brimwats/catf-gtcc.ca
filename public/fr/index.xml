@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Groupe de travail canadien de catalogage</title>
-		<link>https://catf-gtcc.ca/fr/</link>
-		<description>Recent content on Groupe de travail canadien de catalogage</description>
+		<title>Bienvenue au CATF-GTCC! on Groupe de travail canadien de catalogage</title>
+		<link>http://localhost:1313/fr/</link>
+		<description>Recent content in Bienvenue au CATF-GTCC! on Groupe de travail canadien de catalogage</description>
 		<generator>Hugo</generator>
 		<language>fr-CA</language>
 		
@@ -12,27 +12,34 @@
 		
 			<lastBuildDate>Thu, 08 Oct 2026 14:19:00 -0400</lastBuildDate>
 		
-			<atom:link href="https://catf-gtcc.ca/fr/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>About</title>
-				<link>https://catf-gtcc.ca/fr/about/</link>
+				<link>http://localhost:1313/fr/about/</link>
 				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>https://catf-gtcc.ca/fr/about/</guid>
+				<guid>http://localhost:1313/fr/about/</guid>
 				<description>&lt;p&gt;Ici page d&amp;rsquo;about.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title></title>
+				<link>http://localhost:1313/fr/groups/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/groups/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Contact</title>
-				<link>https://catf-gtcc.ca/fr/contact/</link>
-				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>https://catf-gtcc.ca/fr/contact/</guid>
+				<link>http://localhost:1313/fr/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/contact/</guid>
 				<description>&lt;p&gt;This is a contact page&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Goals</title>
-				<link>https://catf-gtcc.ca/fr/goals/</link>
-				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>https://catf-gtcc.ca/fr/goals/</guid>
-				<description>&lt;p&gt;This is a goals page&lt;/p&gt;</description>
+				<title>Objectifs &amp; Groupes</title>
+				<link>http://localhost:1313/fr/goals/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/goals/</guid>
+				<description>&lt;p&gt;En réponse aux questions relatives à la souveraineté des métadonnées bibliographiques canadiennes, le Groupe de travail canadien sur le catalogage (GTCC) a été créé en novembre 2025. Elle compte plus de 150 membres actifs à travers le Canada qui se réunissent virtuellement chaque mois.&lt;/p&gt;&#xA;&lt;p&gt;La mission du groupe de travail est de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rendre compte/comprendre les coûts réels de la décentralisation de l&amp;rsquo;infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Rapatrier/reprendre le contrôle des métadonnées et des notices canadiennes&lt;/li&gt;&#xA;&lt;li&gt;Reconstruire un catalogue national durable, inclusif et indépendant&lt;/li&gt;&#xA;&lt;li&gt;Développer une infrastructure résilience et fédérée prenant en charge plusieurs vocabulaires, pratiques descriptives et fichiers d’autorité nationaux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bien qu’elle n’en soit qu’à ses débuts, le GTCC est en train de constituer une communauté nationale visant à promouvoir et à protéger le patrimoine culturel canadien tout en réduisant la dépendance vis-à-vis des systèmes étrangers et en récupérant les métadonnées canadiennes. Le groupe de travail encourage les organisations des bibliothèques, archives et musées partout au Canada à se joindre à cet effort collaboratif et à contribuer à la construction d’un catalogue national inclusif&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
