@@ -2,92 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-08T14:19:00-04:00</lastmod>
+    <loc>https://catf-gtcc.ca/groups/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/"
+                href="https://catf-gtcc.ca/groups/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/"
+                href="https://catf-gtcc.ca/fr/groups/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-10-08T14:19:00-04:00</lastmod>
+    <loc>https://catf-gtcc.ca/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/about/"
+                href="https://catf-gtcc.ca/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/about/"
+                href="https://catf-gtcc.ca/fr/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2026-10-08T14:19:00-04:00</lastmod>
+    <loc>https://catf-gtcc.ca/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/contact/"
+                href="https://catf-gtcc.ca/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/contact/"
+                href="https://catf-gtcc.ca/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/goals/</loc>
-    <lastmod>2026-10-08T14:19:00-04:00</lastmod>
+    <loc>https://catf-gtcc.ca/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/goals/"
+                href="https://catf-gtcc.ca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/goals/"
+                href="https://catf-gtcc.ca/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/groups/</loc>
+    <loc>https://catf-gtcc.ca/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/groups/"
+                href="https://catf-gtcc.ca/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/groups/"
+                href="https://catf-gtcc.ca/fr/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://catf-gtcc.ca/goals/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/categories/"
+                href="https://catf-gtcc.ca/goals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/categories/"
+                href="https://catf-gtcc.ca/fr/goals/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://catf-gtcc.ca/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="http://localhost:1313/tags/"
+                href="https://catf-gtcc.ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CA"
-                href="http://localhost:1313/fr/tags/"
+                href="https://catf-gtcc.ca/fr/tags/"
                 />
   </url>
 </urlset>

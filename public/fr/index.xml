@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bienvenue au CATF-GTCC! on Groupe de travail canadien de catalogage</title>
-		<link>http://localhost:1313/fr/</link>
+		<link>https://catf-gtcc.ca/fr/</link>
 		<description>Recent content in Bienvenue au CATF-GTCC! on Groupe de travail canadien de catalogage</description>
 		<generator>Hugo</generator>
 		<language>fr-CA</language>
@@ -10,36 +10,34 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 14:19:00 -0400</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>About</title>
-				<link>http://localhost:1313/fr/about/</link>
-				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>http://localhost:1313/fr/about/</guid>
-				<description>&lt;p&gt;Ici page d&amp;rsquo;about.&lt;/p&gt;</description>
-			</item>
+			<atom:link href="https://catf-gtcc.ca/fr/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title></title>
-				<link>http://localhost:1313/fr/groups/</link>
+				<link>https://catf-gtcc.ca/fr/groups/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/fr/groups/</guid>
+				<guid>https://catf-gtcc.ca/fr/groups/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Contact</title>
-				<link>http://localhost:1313/fr/contact/</link>
+				<title>About</title>
+				<link>https://catf-gtcc.ca/fr/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/fr/contact/</guid>
-				<description>&lt;p&gt;This is a contact page&lt;/p&gt;</description>
+				<guid>https://catf-gtcc.ca/fr/about/</guid>
+				<description>&lt;p&gt;Ici page d&amp;rsquo;about.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>https://catf-gtcc.ca/fr/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://catf-gtcc.ca/fr/contact/</guid>
+				<description>&lt;h2 id=&#34;simpliquer&#34;&gt;S&amp;rsquo;impliquer&lt;/h2&gt;&#xA;&lt;p&gt;Si vous souhaitez participer à un groupe de travail de la CATF, veuillez utiliser &lt;a href=&#34;https://forms.cloud.microsoft/r/pye4ZCdLRK&#34;&gt;ce formulaire&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Si vous souhaitez nous contacter, veuillez utiliser ce formulaire.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/maeqjdop&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Votre nom&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Adresse e-mail&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;      Une adresse e-mail est requise.&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Envoyer&#34; /&gt;&#xA;&#xA;&lt;/form&gt;&#xA;&#xA;&lt;h2 id=&#34;liste-de-diffusion&#34;&gt;Liste de diffusion&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructions à venir.&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Objectifs &amp; Groupes</title>
-				<link>http://localhost:1313/fr/goals/</link>
+				<link>https://catf-gtcc.ca/fr/goals/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/fr/goals/</guid>
-				<description>&lt;p&gt;En réponse aux questions relatives à la souveraineté des métadonnées bibliographiques canadiennes, le Groupe de travail canadien sur le catalogage (GTCC) a été créé en novembre 2025. Elle compte plus de 150 membres actifs à travers le Canada qui se réunissent virtuellement chaque mois.&lt;/p&gt;&#xA;&lt;p&gt;La mission du groupe de travail est de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rendre compte/comprendre les coûts réels de la décentralisation de l&amp;rsquo;infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Rapatrier/reprendre le contrôle des métadonnées et des notices canadiennes&lt;/li&gt;&#xA;&lt;li&gt;Reconstruire un catalogue national durable, inclusif et indépendant&lt;/li&gt;&#xA;&lt;li&gt;Développer une infrastructure résilience et fédérée prenant en charge plusieurs vocabulaires, pratiques descriptives et fichiers d’autorité nationaux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bien qu’elle n’en soit qu’à ses débuts, le GTCC est en train de constituer une communauté nationale visant à promouvoir et à protéger le patrimoine culturel canadien tout en réduisant la dépendance vis-à-vis des systèmes étrangers et en récupérant les métadonnées canadiennes. Le groupe de travail encourage les organisations des bibliothèques, archives et musées partout au Canada à se joindre à cet effort collaboratif et à contribuer à la construction d’un catalogue national inclusif&lt;/p&gt;</description>
+				<guid>https://catf-gtcc.ca/fr/goals/</guid>
+				<description>&lt;h2 id=&#34;histoire&#34;&gt;Histoire&lt;/h2&gt;&#xA;&lt;p&gt;Au cours des deux dernières décennies, le travail du savoir au Canada (le catalogage en bibliothèque et la description archivistique et muséale) a connu des changements importants, sous l’effet de la législation et des politiques, des avancées technologiques et du financement fédéral. En conséquence, les canadiens ont été affectés par la perte de notices bibliographiques (bilingues), l’inaccessibilité de l’information, des coûts plus élevés que ceux initialement prévus par le gouvernement fédéral et un soutien décroissant au patrimoine culturel national.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

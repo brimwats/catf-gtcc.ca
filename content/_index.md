@@ -1,7 +1,8 @@
 +++
 featured_image = "/images/CA_Flag_Crop.jpg"
 layout = "single"
-title = "Welcome to the CATF-GTCC!"
+title = "Welcome to CATF-GTCC!"
+linktitle = "CATF-GTCC"
 +++
 
 Welcome to the Canadian Cataloguing Taskforce | Groupe de travail canadien sur le catalogage (CATF-GTCC)!

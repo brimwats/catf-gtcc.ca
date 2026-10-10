@@ -1,45 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Welcome to the CATF-GTCC! on Canadian Cataloguing Taskforce</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content in Welcome to the CATF-GTCC! on Canadian Cataloguing Taskforce</description>
+		<title>Welcome to CATF-GTCC! on Canadian Cataloguing Taskforce</title>
+		<link>https://catf-gtcc.ca/</link>
+		<description>Recent content in Welcome to CATF-GTCC! on Canadian Cataloguing Taskforce</description>
 		<generator>Hugo</generator>
 		<language>en-CA</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 14:19:00 -0400</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>About</title>
-				<link>http://localhost:1313/about/</link>
-				<pubDate>Thu, 08 Oct 2026 14:19:00 -0400</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;This is an about page&lt;/p&gt;</description>
-			</item>
+			<atom:link href="https://catf-gtcc.ca/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title></title>
-				<link>http://localhost:1313/groups/</link>
+				<link>https://catf-gtcc.ca/groups/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/groups/</guid>
+				<guid>https://catf-gtcc.ca/groups/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Contact</title>
-				<link>http://localhost:1313/contact/</link>
+				<title>About</title>
+				<link>https://catf-gtcc.ca/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/contact/</guid>
-				<description>&lt;p&gt;This is a contact page&lt;/p&gt;</description>
+				<guid>https://catf-gtcc.ca/about/</guid>
+				<description>&lt;p&gt;This is an about page&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>https://catf-gtcc.ca/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://catf-gtcc.ca/contact/</guid>
+				<description>&lt;h2 id=&#34;getting-involved&#34;&gt;Getting Involved&lt;/h2&gt;&#xA;&lt;p&gt;If you would like to get involved in a CATF Working Group, please use &lt;a href=&#34;https://forms.cloud.microsoft/r/pye4ZCdLRK&#34;&gt;this form&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;If you would like to contact us, please use this form&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/maeqjdop&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;      An email address is required.&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xA;&#xA;&lt;/form&gt;&#xA;&#xA;&lt;h2 id=&#34;listservmailing-list&#34;&gt;Listserv/Mailing List&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructons coming soon.&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Goals &amp; Working Groups</title>
-				<link>http://localhost:1313/goals/</link>
+				<link>https://catf-gtcc.ca/goals/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/goals/</guid>
-				<description>&lt;p&gt;In response to issues pertaining to the sovereignty of Canadian bibliographic metadata, the Canadian Cataloguing Taskforce (CATF) was created in November 2025. There are over 150 active members across Canada who meet virtually on a monthly basis.&lt;/p&gt;&#xA;&lt;p&gt;The taskforce’s mission is to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Account for/understand the true costs of infrastructure devolution.&lt;/li&gt;&#xA;&lt;li&gt;Repatriate/regain control over Canadian metadata and records&lt;/li&gt;&#xA;&lt;li&gt;Rebuild a sustainable, inclusive and independent national catalogue&lt;/li&gt;&#xA;&lt;li&gt;Develop resilient and federated infrastructure which supports multiple vocabularies, descriptive practices and national authority files&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Although in the early stages, CATF is building a national community aimed to promote and protect Canadian cultural heritage while reducing dependency on foreign systems and reclaiming Canadian metadata. The taskforce encourages GLAMS organizations across Canada to join this collaborative effort and contribute to building an inclusive, national catalogue.&lt;/p&gt;</description>
+				<guid>https://catf-gtcc.ca/goals/</guid>
+				<description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Over the last couple of decades Canadian knowledge work (library cataloguing, and archival / museum description) has undergone significant changes driven by legislative acts and policies, technological advancements, and federal funding. Consequently, Canadians have been impacted through lost (bilingual) bibliographic records, inaccessible information, higher costs than originally projected by the federal government, and dwindling support for national cultural heritage.&lt;/p&gt;&#xA;&lt;p&gt;Following the National Library Act (1953), the National Library of Canada (NLC) was created to manage the national union catalog and bibliography. Shortly after, the Official Languages Act (1969) was passed, and the NLC was responsible for creating bilingual bibliographic records. This led to the formation of the Canadian Task Group (1972) on Cataloguing Standards and developing the Canadiana Authorities. The NLC launched AMICUS (1995), a free bilingual catalogue with information from over 1300 libraries.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
